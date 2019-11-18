@@ -1,0 +1,16 @@
+@font-face 
+{
+    font-family: 'Deng';
+    src: url('../assets/fonts/Deng.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    font-family: Deng;
+    font-size: 24px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
